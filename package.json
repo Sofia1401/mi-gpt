@@ -33,7 +33,7 @@
     "https-proxy-agent": "^7.0.4",
     "mi-service-lite": "^2.4.0",
     "openai": "^4.47.3",
-    "prisma": "^5.14.0"
+    "prisma": "^5.22.0"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
